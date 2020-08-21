@@ -1,0 +1,13 @@
+{
+    "name": "vue-cli-plugin-xm-sassglobal",
+    "version": "0.0.2",
+    "description": "sass global by vue cli",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "postcss-flexbugs-fixes": "^4.1.0"
+    }
+  }
+  
